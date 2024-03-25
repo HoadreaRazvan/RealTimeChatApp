@@ -1,0 +1,11 @@
+C:\Users\hoadr\Desktop\client\network\bin\Debug\net7.0-windows\network.deps.json
+C:\Users\hoadr\Desktop\client\network\bin\Debug\net7.0-windows\network.dll
+C:\Users\hoadr\Desktop\client\network\bin\Debug\net7.0-windows\network.pdb
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\network.AssemblyInfoInputs.cache
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\network.AssemblyInfo.cs
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\network.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\network.dll
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\refint\network.dll
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\network.pdb
+C:\Users\hoadr\Desktop\client\network\obj\Debug\net7.0-windows\ref\network.dll
